@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\alumno\desktop\workspace\c++\consolas\ps4_win_sol\win_project\main.cpp(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Timer.cpp
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: rotate_slow function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspectiveFov function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: infinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: tweakedInfinitePerspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Generating Code...
+  Win_Project.vcxproj -> C:\Users\Alumno\Desktop\Workspace\C++\Consolas\PS4_Win_Sol\x64\Debug\Win_Project.exe

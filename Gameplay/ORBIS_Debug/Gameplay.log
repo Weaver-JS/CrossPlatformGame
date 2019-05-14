@@ -1,0 +1,5 @@
+﻿  Collision.cpp
+  Game.cpp
+  Physics.cpp
+C:\Users\Alumno\Desktop\Workspace\C++\Consolas\PS4_Win_Sol\Gameplay\Physics.cpp(493,11): warning : unused variable 'range' [-Wunused-variable]
+  Gameplay.vcxproj -> C:\Users\Alumno\Desktop\Workspace\C++\Consolas\PS4_Win_Sol\ORBIS_Debug\Gameplay.a

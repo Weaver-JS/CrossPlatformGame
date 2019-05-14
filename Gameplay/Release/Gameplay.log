@@ -1,0 +1,6 @@
+﻿  Collision.cpp
+  Game.cpp
+Game.cpp(105): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+Game.cpp(114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Physics.cpp
+  Gameplay.vcxproj -> C:\Users\Alumno\Desktop\Workspace\C++\Consolas\PS4_Win_Sol\Release\Gameplay.lib

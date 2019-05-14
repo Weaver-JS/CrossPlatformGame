@@ -1,0 +1,11 @@
+﻿  Physics.cpp
+c:\users\alumno\desktop\workspace\c++\consolas\ps4_win_sol\gameplay\physics.cpp(282): warning C4018: '<': signed/unsigned mismatch
+c:\users\alumno\desktop\workspace\c++\consolas\ps4_win_sol\gameplay\physics.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\alumno\desktop\workspace\c++\consolas\ps4_win_sol\gameplay\physics.cpp(304): warning C4018: '<': signed/unsigned mismatch
+c:\users\alumno\desktop\workspace\c++\consolas\ps4_win_sol\gameplay\physics.cpp(514): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  Game.cpp
+  Generating Code...
+  Compiling...
+  Collision.cpp
+  Generating Code...
+  Gameplay.vcxproj -> C:\Users\Alumno\Desktop\Workspace\C++\Consolas\PS4_Win_Sol\Debug\Gameplay.lib

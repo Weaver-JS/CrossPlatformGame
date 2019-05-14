@@ -1,0 +1,5 @@
+﻿  Physics.cpp
+Physics.cpp(223): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+Physics.cpp(272): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+Physics.cpp(429): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  Gameplay.vcxproj -> C:\Users\Alumno\Desktop\Workspace\C++\Consolas\PS4_Win_Sol\x64\Release\Gameplay.lib

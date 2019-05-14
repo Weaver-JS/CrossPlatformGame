@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gameplay", "Gameplay\Gameplay.vcxproj", "{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win_Project", "Win_Project\Win_Project.vcxproj", "{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PS4_Project", "PS4_Project\PS4_Project.vcxproj", "{0D064A50-AB42-4FD7-B70B-F309392ABE3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_toolkit", "..\toolkit\toolkit.vcxproj", "{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ORBIS = Release|ORBIS
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Debug|x64.ActiveCfg = Debug|x64
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Debug|x64.Build.0 = Debug|x64
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Debug|x86.Build.0 = Debug|Win32
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Release|ORBIS.Build.0 = Release|ORBIS
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Release|x64.ActiveCfg = Release|x64
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Release|x64.Build.0 = Release|x64
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Release|x86.ActiveCfg = Release|Win32
+		{D8E12DE5-91C2-4D39-AA4E-FB0CB68B2860}.Release|x86.Build.0 = Release|Win32
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Debug|ORBIS.ActiveCfg = Debug|Win32
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Debug|x64.ActiveCfg = Debug|x64
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Debug|x64.Build.0 = Debug|x64
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Debug|x86.Build.0 = Debug|Win32
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Release|ORBIS.ActiveCfg = Release|Win32
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Release|x64.ActiveCfg = Release|x64
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Release|x64.Build.0 = Release|x64
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Release|x86.ActiveCfg = Release|Win32
+		{B5A68BA9-52B1-43C4-B6C2-13C7B258AC25}.Release|x86.Build.0 = Release|Win32
+		{0D064A50-AB42-4FD7-B70B-F309392ABE3F}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{0D064A50-AB42-4FD7-B70B-F309392ABE3F}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{0D064A50-AB42-4FD7-B70B-F309392ABE3F}.Debug|x64.ActiveCfg = Debug|ORBIS
+		{0D064A50-AB42-4FD7-B70B-F309392ABE3F}.Debug|x86.ActiveCfg = Debug|ORBIS
+		{0D064A50-AB42-4FD7-B70B-F309392ABE3F}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{0D064A50-AB42-4FD7-B70B-F309392ABE3F}.Release|ORBIS.Build.0 = Release|ORBIS
+		{0D064A50-AB42-4FD7-B70B-F309392ABE3F}.Release|x64.ActiveCfg = Release|ORBIS
+		{0D064A50-AB42-4FD7-B70B-F309392ABE3F}.Release|x86.ActiveCfg = Release|ORBIS
+		{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}.Debug|x64.ActiveCfg = Debug|ORBIS
+		{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}.Debug|x86.ActiveCfg = Debug|ORBIS
+		{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}.Release|ORBIS.Build.0 = Release|ORBIS
+		{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}.Release|x64.ActiveCfg = Release|ORBIS
+		{2F4CCF89-7649-4C7F-8CBF-F976B4FBC2B6}.Release|x86.ActiveCfg = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {808E8D53-F8D5-4DC9-9A14-C62301C67A55}
+	EndGlobalSection
+EndGlobal
